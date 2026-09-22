@@ -1,0 +1,18 @@
+<resources>
+    <!-- Tela Principal:-->
+    <string name="app_name">Registration App</string>
+    <string name="btn_config">Configuração</string>
+    <string name="btn_exit">Sair</string>
+    <!-- Tela Config:-->
+    <string name="label_name">Nome: </string>
+    <string name="label_sex">Sexo: </string>
+    <string name="label_diet">Dieta: </string>
+    <string name="edit_name">Admin</string>
+    <string name="radio_btn_male">Masculino</string>
+    <string name="radio_btn_female">Feminino</string>
+    <string name="checkbox_hipolipidica">Hipolipídia</string>
+    <string name="checkbox_hipoglicidica">Hipoglicídica</string>
+    <string name="checkbox_sem_gluten">Sem glúten</string>
+    <string name="btn_confirm">Confirmar</string>
+    <string name="btn_cancel">Cancelar</string>
+</resources>

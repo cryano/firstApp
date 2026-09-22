@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="btn_config">Settings</string>
+    <string name="btn_exit">Exit</string>
+    <string name="checkbox_sem_gluten">Gluten free</string>
+    <string name="btn_confirm">Confirm</string>
+    <string name="btn_cancel">Cancel</string>
+
+
+    <string name="label_diet">Diet:</string>
+    <string name="edit_name">Admin</string>
+    <string name="radio_btn_male">Male</string>
+    <string name="radio_btn_female">Female</string>
+    <string name="checkbox_hipolipidica">Hypolipidemia</string>
+    <string name="checkbox_hipoglicidica">Low-carbohydrate</string>
+    <string name="label_name">Name:</string>
+    <string name="label_sex">Sex:</string>
+</resources>

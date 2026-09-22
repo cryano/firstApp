@@ -45,6 +45,7 @@
             android:text="@string/label_sex" />
 
         <RadioGroup
+            android:id="@+id/radio_group_sex"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:checkedButton="@id/radio_btn_male">

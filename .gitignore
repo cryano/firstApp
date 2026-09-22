@@ -1,0 +1,34 @@
+# Arquivos do Android Studio e IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Arquivos locais de configuração do SDK e keystores (NÃO envie para o Git)
+local.properties
+*.jks
+*.keystore
+
+# Pastas de compilação (Geradas automaticamente)
+build/
+app/build/
+
+# Cache do Gradle
+.gradle/
+/buildSrc/build/
+.kotlin/
+
+# Logs e capturas de tela do Android Studio
+/captures/
+*.log
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Suporte a C++ / NDK (se usar no futuro)
+.externalNativeBuild/
+.cxx/
+cmake_install.cmake
+CMakeCache.txt
+

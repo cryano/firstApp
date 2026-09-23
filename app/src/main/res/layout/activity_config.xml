@@ -43,8 +43,9 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/label_sex" />
-
+        <!--Adicionado id ao botao para acessar futuramente-->
         <RadioGroup
+
             android:id="@+id/radio_group_sex"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
